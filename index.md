@@ -1,3 +1,9 @@
+---
+title: CWORT — Compliance & Consulting Orchestration Platform
+description: Overview of CWORT’s AI-powered compliance automation across DORA, NIS2, UK-NIS, ISO 27001, enterprise maturity and operational resilience.
+---
+
+
 CWORT — AI‑Powered Compliance & Consulting Orchestration Platform
 CWORT is a modern compliance and consulting orchestration platform designed to automate discovery, maturity scans, evidence collection, and regulatory validation across DORA, NIS2, UK NIS, ISO 27001, CAF, and operational resilience frameworks.
 
