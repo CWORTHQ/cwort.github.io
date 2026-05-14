@@ -1,3 +1,8 @@
+---
+title: CWORT Platform Overview
+description: Technical overview of the CWORT platform including agentic AI workflows, multi-tenant architecture, evidence immutability and API-first design.
+---
+
 # CWORT Platform Overview
 
 CWORT is built on:
