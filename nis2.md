@@ -1,3 +1,9 @@
+---
+title: NIS2 Compliance Automation
+description: CWORT’s automated NIS2 governance, supply chain security, incident handling and maturity assessment workflows.
+---
+
+
 # NIS2 Compliance & Maturity Automation
 
 CWORT automates NIS2 discovery, maturity scoring, and evidence validation across:
