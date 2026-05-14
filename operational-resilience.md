@@ -1,3 +1,9 @@
+---
+title: Operational Resilience Automation
+description: CWORT’s automated workflows for PRA/FCA operational resilience, impact tolerances, scenario testing and dependency mapping.
+---
+
+
 # Operational Resilience Automation
 
 CWORT supports PRA/FCA operational resilience requirements including:
