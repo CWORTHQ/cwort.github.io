@@ -26,3 +26,11 @@ CWORT helps UK essential services and Relevant Digital Service Providers structu
 
 [Home](./index.md) • [DORA](./dora.md) • [NIS2](./nis2.md) • [UK‑NIS](./uk-nis.md) • [ISO 27001](./iso27001.md) • [Operational Resilience](./operational-resilience.md) • [Enterprise Maturity](./enterprise-maturity.md) • [Platform](./cwort-platform.md) • [Contact](./contact.md)
 
+
+
+
+---
+
+**CWORT** — Compliance & Consulting Orchestration Platform  
+© 2026 CWORTHQ. All rights reserved.  
+[www.cwort.com](https://www.cwort.com)
