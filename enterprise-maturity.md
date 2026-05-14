@@ -1,3 +1,9 @@
+---
+title: Enterprise Maturity Assessment
+description: CWORT’s enterprise maturity model automation, capability scoring, evidence-bound assessments and consulting workflow orchestration.
+---
+
+
 # Enterprise Maturity Assessment
 
 CWORT delivers **enterprise‑wide maturity scoring** and **evidence‑bound validation** so boards, risk committees, and delivery teams share one consistent view of posture—across technology, third parties, and control domains.
