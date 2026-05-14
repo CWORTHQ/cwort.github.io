@@ -1,3 +1,8 @@
+---
+title: DORA Compliance Automation
+description: CWORT’s automated DORA maturity, evidence, and regulatory validation workflows.
+---
+
 # DORA Compliance Automation with CWORT
 
 CWORT provides automated discovery, maturity scoring, and evidence‑bound validation for the Digital Operational Resilience Act (DORA).
