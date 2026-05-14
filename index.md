@@ -4,7 +4,7 @@ CWORT is a modern compliance and consulting orchestration platform designed to a
 CWORT helps consulting teams and regulated organisations deliver faster, more consistent, audit‑ready outcomes using agentic AI workflows and a secure multi‑tenant architecture.
 
 👉 Main Website: https://www.cwort.com  
-👉 Platform: https://app.cwort.com
+👉 Platform: https://cwort.com
 
 Why CWORT Exists
 Compliance and operational resilience work is traditionally:
@@ -32,3 +32,5 @@ Explore the Microsite
 - [Enterprise Maturity assessment](./enterprise-maturity.md)
 - [Platform](./cwort-platform.md)
 - [Contact](./contact.md)
+
+[Home](./index.md) • [DORA](./dora.md) • [NIS2](./nis2.md) • [UK‑NIS](./uk-nis.md) • [ISO 27001](./iso27001.md) • [Operational Resilience](./operational-resilience.md) • [Enterprise Maturity](./enterprise-maturity.md) • [Platform](./cwort-platform.md) • [Contact](./contact.md)
